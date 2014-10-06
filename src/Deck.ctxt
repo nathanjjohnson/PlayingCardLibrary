@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Deck()
+comment0.text=\nConstructor\ for\ the\ Deck\ object.\n\n
+comment1.target=void\ shuffle()
+comment1.text=\nRandomizes\ the\ order\ of\ the\ Deck.\n\n
+comment2.target=void\ printDeck()
+comment2.text=\nDebug\ method\ to\ print\ the\ deck.\n\n
+comment3.target=Card\ draw()
+comment3.text=\nReturns\ the\ next\ card\ on\ the\ deck.\n\n@return\ \ \ \ Card\n\n
+numComments=4

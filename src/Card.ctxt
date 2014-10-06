@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Card()
+comment0.text=\nConstructor\ for\ the\ Card\ object\n\n
+comment1.params=newSuit\ newValue
+comment1.target=Card(String,\ String)
+comment1.text=\nConstructor\ for\ the\ Card\ object\n\n@param\ \ newSuit\ \ \ The\ suit\ of\ the\ card.\n@param\ \ newValue\ \ The\ value\ of\ the\ card.\n\n
+comment2.target=String\ getSuit()
+comment2.text=\nGets\ the\ suit\ attribute\ of\ the\ Card\ object\n\n@return\ \ \ \ The\ suit\ value\n\n
+comment3.target=String\ getValue()
+comment3.text=\nGets\ the\ value\ attribute\ of\ the\ Card\ object\n\n@return\ \ \ \ The\ value\ value\n\n
+comment4.target=String\ toString()
+numComments=5
